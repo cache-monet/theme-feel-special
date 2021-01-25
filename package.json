@@ -1,0 +1,21 @@
+{
+    "name": "feel-special",
+    "displayName": "FEEL SPECIAL",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "FEEL SPECIAL",
+                "uiTheme": "vs-dark",
+                "path": "./themes/FEEL SPECIAL-color-theme.json"
+            }
+        ]
+    }
+}
