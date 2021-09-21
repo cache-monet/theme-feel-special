@@ -1,13 +1,3 @@
-# README
-## This is the README for your extension "feel-special"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+vscode theme based on the mv for TWICE's FEEL SPECIAL. truly the cultural reset we needed thank u god jihyo
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+![image](https://user-images.githubusercontent.com/28706332/134128831-5376b4b2-9a63-4d50-aa8c-d50563af259b.png)
